@@ -1,0 +1,8 @@
+README.md
+setup.py
+mini_ml_project.egg-info/PKG-INFO
+mini_ml_project.egg-info/SOURCES.txt
+mini_ml_project.egg-info/dependency_links.txt
+mini_ml_project.egg-info/requires.txt
+mini_ml_project.egg-info/top_level.txt
+src/__init__.py
