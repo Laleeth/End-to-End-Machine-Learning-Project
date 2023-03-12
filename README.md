@@ -4,14 +4,14 @@ This project aims to build a machine learning model to predict the sales of vari
 Folder Structure:
 The project has the following folder structure:
 
-# SRC: This folder contains the source code for the project. It includes sub-folders:
+### SRC: This folder contains the source code for the project. It includes sub-folders:
 
-# Components: This folder contains the implementation of various components of the machine learning model like data preprocessing, feature engineering, and model training.
-# Pipeline: This folder contains the implementation of the pipeline to execute the machine learning model.
-# Exception: This folder contains the implementation of custom exception handling.
-# Utilis: This folder contains various utility functions used across the project.
-# Logging: This folder contains the implementation of logging for the project.
-# DATA: This folder contains the dataset used for training and testing the machine learning model.
+###  Components: This folder contains the implementation of various components of the machine learning model like data preprocessing, feature engineering, and model training.
+### Pipeline: This folder contains the implementation of the pipeline to execute the machine learning model.
+###  Exception: This folder contains the implementation of custom exception handling.
+###  Utilis: This folder contains various utility functions used across the project.
+###  Logging: This folder contains the implementation of logging for the project.
+### DATA: This folder contains the dataset used for training and testing the machine learning model.
 
 DOC: This folder contains the project documentation, including the project proposal, project report, and user manual.
 
