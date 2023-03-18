@@ -12,6 +12,8 @@ from src.exception import CustomException
 from src.logger import logging
 from src.utils import save_object
 
+
+#@dataclass is a Python decorator introduced in Python 3.7 that allows you to easily define classes that are primarily used to store data.
 @dataclass
 class DataTransformationConfig:
     preprocessor_obj_file_path=os.path.join('artifacts',"preprocessor.pkl")
