@@ -1,3 +1,26 @@
+# Project Setup
+
+## Steps
+
+1. 📥 **Data Ingestion:** Start the project by ingesting the required data into the system. This step involves collecting, importing, and preparing the data from various sources to ensure it is ready for analysis and modeling.
+
+2. 🔄 **Data Transformation:** Once the data is ingested, the next step is to transform it into a suitable format for analysis. Data transformation includes cleaning, filtering, and reshaping the data to extract relevant insights and patterns.
+
+3. 🧠 **Model Trainer:** Develop and train machine learning models using the preprocessed data. This step involves selecting appropriate algorithms, tuning hyperparameters, and evaluating model performance.
+
+4. 📊 **Model Evaluation:** Evaluate the trained models to assess their performance and accuracy. Use various evaluation metrics to gauge how well the models are performing on unseen data.
+
+5. 🚀 **Model Deployment:** Deploy the best-performing model into a production environment, making it accessible for real-time predictions and use.
+
+6. ⚙️ **CI/CD Pipelines and Deploy in AWS:** Implement Continuous Integration/Continuous Deployment (CI/CD) pipelines to automate the deployment process. Deploy the model in AWS for efficient and scalable inference.
+
+
+
+
+
+
+
+
 # Real world data science project
 This project aims to build a machine learning model to predict the sales of various features [Will update soon].
 
